@@ -112,8 +112,8 @@ Jest (configurado)
 📷 Screenshots
 
 <p align="center">
-  <img src="./assets/dashboard_dark.jpg" width="280" />
-  <img src="./assets/dashboard_light.jpg" width="280" />
-  <img src="./assets/details_dark.jpg" width="280" />
+  <img src="./assets/screenshots/dashboard_dark.jpg" width="280" />
+  <img src="./assets/screenshots/dashboard_white.jpg" width="280" />
+  <img src="./assets/screenshots/details_dark.jpg" width="280" />
   
 </p>
